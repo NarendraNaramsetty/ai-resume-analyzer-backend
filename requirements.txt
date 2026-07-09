@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-cors-headers
+mysqlclient
+python-dotenv
+razorpay
+cryptography
+django-allauth
+dj-rest-auth
+requests
